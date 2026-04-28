@@ -1,0 +1,18 @@
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Datasets and Heavy Data Files
+Dataset/
+*.npy
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Generated Files (Optional but good practice)
+.DS_Store
+Thumbs.db
